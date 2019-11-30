@@ -26,3 +26,8 @@
 `ctl` + `t` Open Switcher
 
 `ctl(hold)` + `t` + `t` Focus on terminal
+
+### Open JetBrain IDE from terminal
+```
+Tools -> Create Command Line Launcher
+```
